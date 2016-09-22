@@ -72,4 +72,14 @@ print("Original Message :", norm_string)
 Convert to Acronym : Random Access Memory
 RAM
 '''
+#Request for string
+orig_string = input("Convert to Acronym : ")
+#Convert string to all uppercase
+orig_string = orig_string.upper()
 
+#Convert string into a list
+list_of_words =orig_string.split()
+
+#Cycle through the list to grab first index(char) of each word
+for word in list_of_words:
+    print(word[0], end ="")
