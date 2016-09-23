@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea3a1500-b0ac-47a4-a323-7fe21768e8e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function.py" afterPath="$PROJECT_DIR$/function.py" />
     </list>
     <ignored path="PythonProblems.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +45,8 @@
       <file leaf-file-name="function.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="222">
+              <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -68,8 +67,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="604" />
-    <option name="y" value="8" />
+    <option name="x" value="66" />
+    <option name="y" value="25" />
     <option name="width" value="1307" />
     <option name="height" value="657" />
   </component>
@@ -130,7 +129,7 @@
       <recent name="C:\Users\Allan_Wong\Desktop\Tutorials\PythonProblems" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.moreBasicProblems">
+  <component name="RunManager" selected="Python.function">
     <configuration default="false" name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,6 +160,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProblems" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moreBasicProblems.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProblems" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -299,14 +315,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.basic" />
       <item index="1" class="java.lang.String" itemvalue="Python.moreBasicProblems" />
+      <item index="2" class="java.lang.String" itemvalue="Python.function" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.moreBasicProblems" />
-        <item index="1" class="java.lang.String" itemvalue="Python.basic" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.function" />
+        <item index="1" class="java.lang.String" itemvalue="Python.moreBasicProblems" />
+        <item index="2" class="java.lang.String" itemvalue="Python.basic" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="604" y="8" width="1307" height="657" extended-state="0" />
+    <frame x="66" y="25" width="1307" height="657" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -391,8 +409,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="222">
+          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
           <folding />
         </state>
       </provider>
